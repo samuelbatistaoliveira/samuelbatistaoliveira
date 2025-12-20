@@ -1,7 +1,7 @@
 ## Samuel Batista
 
 
-Sou um desenvolvedor de software focado em criar código limpo, reutilizável e escalável. Com curiosidade e paixão por aprender, busco constantemente aprimorar minhas habilidades em resolução de problemas, com um compromisso especial em desafios de plataformas como o Beecrowd. 
+Sou um desenvolvedor de software focado em criar código limpo, reutilizável e escalável. Com curiosidade e paixão por aprender, busco constantemente aprimorar minhas habilidades em resolução de problemas.
 
 ---
 
