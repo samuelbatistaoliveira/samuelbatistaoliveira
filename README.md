@@ -14,16 +14,11 @@ Sou um desenvolvedor de software focado em criar código limpo, reutilizável e 
 
 ---
 
-## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelbatistaoliveira&theme=react&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbatistaoliveira&layout=compact&theme=react&hide_border=true&langs_count=6" height="180" alt="Top Languages" />
-</p>
  
 
 
- ---
+
 
 ## 🌐 Let's Connect  
 
